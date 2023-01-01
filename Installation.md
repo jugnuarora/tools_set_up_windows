@@ -92,11 +92,11 @@
   4. Now it will connect to Postgres.
 
 # References #
-https://www.how2shout.com/how-to/how-to-install-homebrew-on-linux-or-wsl.html
-https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode
-https://www.youtube.com/watch?v=xlgyZ1_OlsY
-https://dev.to/contactsunny/installing-zsh-and-oh-my-zsh-on-windows-11-with-wsl2-1p5i
-https://www.redhat.com/sysadmin/introduction-vi-editor
-https://github.com/neuefische/da-getting-started/blob/main/2_Virtual_environments_Anaconda_Miniconda.md
-https://www.techtronic.us/pbcopy-pbpaste-for-wsl/
+  1. https://www.how2shout.com/how-to/how-to-install-homebrew-on-linux-or-wsl.html
+  2. https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode
+  3. https://www.youtube.com/watch?v=xlgyZ1_OlsY
+  4. https://dev.to/contactsunny/installing-zsh-and-oh-my-zsh-on-windows-11-with-wsl2-1p5i
+  5. https://www.redhat.com/sysadmin/introduction-vi-editor
+  6. https://github.com/neuefische/da-getting-started/blob/main/2_Virtual_environments_Anaconda_Miniconda.md
+  7. https://www.techtronic.us/pbcopy-pbpaste-for-wsl/
 
