@@ -60,6 +60,17 @@
   1. First create pbcopy using [link](https://www.techtronic.us/pbcopy-pbpaste-for-wsl/)
   2. Now follow the steps as in tools set up for Mac.
 
+# Install Miniconda #
+  1. Download Miniconda Linux Installer
+    `sudo apt-get update`
+    `sudo apt-get install wget`
+    `wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Linux-x86_64.sh`
+  2. Validate Checksum
+    `$ sha256sum Miniconda3-py39_4.12.0-Linux-x86_64.sh`
+  3. Install Miniconda
+    `sh ./Miniconda3-py39_4.12.0-Linux-x86_64.sh`
+  4. Exit VSCode and again start it.
+
 # Create nf_base environment #
   (Note: you can copy the existing environment i.e environment.yml also check [link](https://github.com/neuefische/da-getting-started/blob/main/2_Virtual_environments_Anaconda_Miniconda.md))
   1. `conda create –name nf_base python=3.10`
@@ -99,4 +110,5 @@
   5. https://www.redhat.com/sysadmin/introduction-vi-editor
   6. https://github.com/neuefische/da-getting-started/blob/main/2_Virtual_environments_Anaconda_Miniconda.md
   7. https://www.techtronic.us/pbcopy-pbpaste-for-wsl/
+  8. https://kontext.tech/article/1064/install-miniconda-and-anaconda-on-wsl-2-or-linux
 
